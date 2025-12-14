@@ -3,6 +3,9 @@ body{
     background:linear-gradient(to right top,black, white);
     background-attachment: fixed;
 }
+*{
+    scroll-behavior: smooth;
+}
 /*   Header   */
 header {
   display: flex;

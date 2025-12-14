@@ -81,3 +81,23 @@ header {
 .contaner{
     margin-bottom: 50px;
 }
+@media (max-width:480px) {
+    .contaner header .logo h1{
+        font-size: 22px;        
+    }
+    header nav a{
+        font-size: 16px;
+    }
+    .we .data1{
+        font-size: 20px;
+    }
+    .we p{
+        font-size: 18px;
+    }
+    .gools h2 {
+        font-size: 20px;
+    }
+    .gools p {
+        font-size: 18px;
+    }
+}
